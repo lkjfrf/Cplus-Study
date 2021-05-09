@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="p118.cpp" />
     <ClCompile Include="p130.cpp" />
+    <ClCompile Include="p151.cpp" />
     <ClCompile Include="p40.cpp" />
     <ClCompile Include="p56.cpp" />
     <ClCompile Include="p70_1.cpp" />
