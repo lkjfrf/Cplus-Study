@@ -141,12 +141,18 @@
   <ItemGroup>
     <ClCompile Include="p118.cpp" />
     <ClCompile Include="p130.cpp" />
+    <ClCompile Include="p145.cpp" />
     <ClCompile Include="p151.cpp" />
     <ClCompile Include="p171.cpp" />
     <ClCompile Include="p179.cpp" />
     <ClCompile Include="p181.cpp" />
     <ClCompile Include="p195.cpp" />
     <ClCompile Include="p211.cpp" />
+    <ClCompile Include="p231_1.cpp" />
+    <ClCompile Include="p231_3.cpp" />
+    <ClCompile Include="p232_5.cpp" />
+    <ClCompile Include="p232_6.cpp" />
+    <ClCompile Include="p232_7.cpp" />
     <ClCompile Include="p40.cpp" />
     <ClCompile Include="p56.cpp" />
     <ClCompile Include="p70_1.cpp" />
