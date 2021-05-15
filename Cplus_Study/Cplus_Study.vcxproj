@@ -153,6 +153,8 @@
     <ClCompile Include="p232_5.cpp" />
     <ClCompile Include="p232_6.cpp" />
     <ClCompile Include="p232_7.cpp" />
+    <ClCompile Include="p247.cpp" />
+    <ClCompile Include="p281.cpp" />
     <ClCompile Include="p40.cpp" />
     <ClCompile Include="p56.cpp" />
     <ClCompile Include="p70_1.cpp" />

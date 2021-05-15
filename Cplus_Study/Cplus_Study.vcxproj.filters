@@ -72,5 +72,11 @@
     <ClCompile Include="p232_7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p247.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p281.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
