@@ -78,5 +78,11 @@
     <ClCompile Include="p281.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p306_10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p319.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
