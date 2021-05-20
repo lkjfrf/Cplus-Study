@@ -93,5 +93,8 @@
     <ClCompile Include="P358.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="P392.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
