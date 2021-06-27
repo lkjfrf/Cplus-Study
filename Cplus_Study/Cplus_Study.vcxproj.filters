@@ -114,5 +114,11 @@
     <ClCompile Include="p550_7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p581.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p581_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
