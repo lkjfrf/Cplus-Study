@@ -1,18 +1,18 @@
-#include <iostream>
-
-using namespace std;
-
-double warming = 0.3;
-
-void update(double dt);
-void local();
-
-int main()
-{
-	cout << "전역 warming은" << warming << "도입니다." << endl;
-	update(0.1);
-	cout << "전역 warming은" << warming << "도입니다." << endl;
-	local();
-	cout << "전역 warming은" << warming << "도입니다." << endl;
-	return 0;
-}
+//#include <iostream>
+//
+//using namespace std;
+//
+//double warming = 0.3;
+//
+//void update(double dt);
+//void local();
+//
+//int main()
+//{
+//	cout << "전역 warming은" << warming << "도입니다." << endl;
+//	update(0.1);
+//	cout << "전역 warming은" << warming << "도입니다." << endl;
+//	local();
+//	cout << "전역 warming은" << warming << "도입니다." << endl;
+//	return 0;
+//}
