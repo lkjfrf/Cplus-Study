@@ -129,6 +129,9 @@
     <ClCompile Include="usestock1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stock00.h">
@@ -136,6 +139,9 @@
     </ClInclude>
     <ClInclude Include="stock10.h">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
