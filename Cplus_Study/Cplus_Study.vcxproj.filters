@@ -123,5 +123,19 @@
     <ClCompile Include="p599.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stock10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="usestock1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stock00.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stock10.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
