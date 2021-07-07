@@ -176,6 +176,7 @@
     <ClCompile Include="p82.cpp" />
     <ClCompile Include="stack.cpp" />
     <ClCompile Include="stock10.cpp" />
+    <ClCompile Include="stracker.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="usestock1.cpp" />
   </ItemGroup>

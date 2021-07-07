@@ -132,6 +132,9 @@
     <ClCompile Include="stack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stock00.h">

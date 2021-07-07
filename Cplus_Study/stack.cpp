@@ -18,10 +18,26 @@ bool Stack::isfull() const
 
 bool Stack::push(const Item& item)
 {
-	return false;
+	if (top < MAX)
+	{
+		items[top++] = item;
+		return true;
+	}
+	else
+	{
+		return false;
+	}
 }
 
 bool Stack::pop(Item& item)
 {
-	return false;
+	if (top > 0)
+	{
+		item = items[--top];
+		return true;
+	}
+	else
+	{
+		return false;
+	}
 }
