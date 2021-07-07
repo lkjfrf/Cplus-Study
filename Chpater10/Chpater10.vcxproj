@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2d2d8d9a-74f6-47d6-b4ea-4ccc4ed5c70b}</ProjectGuid>
-    <RootNamespace>CplusStudy</RootNamespace>
+    <ProjectGuid>{052231a3-5f7e-4eb1-8c42-750672f5186c}</ProjectGuid>
+    <RootNamespace>Chpater10</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,54 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="account.cpp" />
-    <ClCompile Include="p118.cpp" />
-    <ClCompile Include="p130.cpp" />
-    <ClCompile Include="p145.cpp" />
-    <ClCompile Include="p151.cpp" />
-    <ClCompile Include="p171.cpp" />
-    <ClCompile Include="p179.cpp" />
-    <ClCompile Include="p181.cpp" />
-    <ClCompile Include="p195.cpp" />
-    <ClCompile Include="p211.cpp" />
-    <ClCompile Include="p231_1.cpp" />
-    <ClCompile Include="p231_3.cpp" />
-    <ClCompile Include="p232_5.cpp" />
-    <ClCompile Include="p232_6.cpp" />
-    <ClCompile Include="p232_7.cpp" />
-    <ClCompile Include="p247.cpp" />
-    <ClCompile Include="p281.cpp" />
-    <ClCompile Include="p306_10.cpp" />
-    <ClCompile Include="p319.cpp" />
-    <ClCompile Include="p344.cpp" />
-    <ClCompile Include="p352.cpp" />
-    <ClCompile Include="P358.cpp" />
-    <ClCompile Include="P392.cpp" />
-    <ClCompile Include="p40.cpp" />
-    <ClCompile Include="p430.cpp" />
-    <ClCompile Include="p446.cpp" />
-    <ClCompile Include="p451.cpp" />
-    <ClCompile Include="p522.cpp" />
-    <ClCompile Include="p550_7.cpp" />
-    <ClCompile Include="p56.cpp" />
-    <ClCompile Include="p581.cpp" />
-    <ClCompile Include="p581_2.cpp" />
-    <ClCompile Include="p599.cpp" />
-    <ClCompile Include="p70_1.cpp" />
-    <ClCompile Include="p70_2.cpp" />
-    <ClCompile Include="p82.cpp" />
-    <ClCompile Include="stack.cpp" />
-    <ClCompile Include="stock10.cpp" />
-    <ClCompile Include="stracker.cpp" />
-    <ClCompile Include="test.cpp" />
-    <ClCompile Include="useaccnt.cpp" />
-    <ClCompile Include="usestock1.cpp" />
+    <ClCompile Include="p706_6.cpp" />
+    <ClCompile Include="p706_6_main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="account.h" />
-    <ClInclude Include="stack.h" />
-    <ClInclude Include="stock00.h" />
-    <ClInclude Include="stock10.h" />
+    <ClInclude Include="p706_6.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
