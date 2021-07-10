@@ -18,18 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="account.cpp" />
-    <ClCompile Include="useaccnt.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="account.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4f1adbf6-f7a4-4023-aafd-0983e461e139}</ProjectGuid>
-    <RootNamespace>p7015</RootNamespace>
+    <ProjectGuid>{5cd8fc06-62d2-4029-9b66-13d03ff7adda}</ProjectGuid>
+    <RootNamespace>Chapter11</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -145,6 +138,13 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="mytime3.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mytime3.cpp" />
+    <ClCompile Include="usetime3.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
