@@ -18,12 +18,18 @@
     <ClInclude Include="vect.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="stonewt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="vect.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="randwalk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stonewt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
