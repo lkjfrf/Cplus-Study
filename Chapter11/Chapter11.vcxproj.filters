@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mytime3.h">
+    <ClInclude Include="vect.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mytime3.cpp">
+    <ClCompile Include="vect.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="usetime3.cpp">
+    <ClCompile Include="randwalk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

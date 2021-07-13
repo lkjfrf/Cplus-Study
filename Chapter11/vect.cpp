@@ -124,7 +124,7 @@ namespace VECTOR
 		return Vector(n * x, n * y);
 	}
 
-	Vector operator*(double n, const Vector& a)
+	Vector operator*(double n, const Vector& a)		//바로 위 연산자가 실행되도록 리턴
 	{
 		return a * n;
 	}
