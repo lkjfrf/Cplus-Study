@@ -32,5 +32,8 @@
     <ClCompile Include="stonewt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stone1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
