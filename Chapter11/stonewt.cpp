@@ -19,7 +19,7 @@ Stonewt::Stonewt(int stn, double lbs)
 
 Stonewt::Stonewt()
 {
-	stone = pounds = pds_left = 0;
+	stone = pounds = pds_left  = 0;
 }
 
 void Stonewt::show_lbs() const
@@ -30,4 +30,14 @@ void Stonewt::show_lbs() const
 void Stonewt::show_stn() const
 {
 	cout << stone << "스톤, " << pds_left << "파운드" << endl;
+}
+
+Stonewt::operator int() const
+{
+	return int(pounds + 0.5);	// 반올림 용도로 - 그냥 double을 int로 변환시 소수부분이 반올림없이 사라져버림
+}
+
+Stonewt::operator double() const
+{
+	return pounds;
 }

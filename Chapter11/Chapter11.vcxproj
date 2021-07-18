@@ -24,7 +24,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="randwalk.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="stone.cpp" />
+=======
+    <ClCompile Include="stone1.cpp" />
+>>>>>>> 7de20b87df757d0b73f670ed42cb2c44554388a0
     <ClCompile Include="stonewt.cpp" />
     <ClCompile Include="vect.cpp" />
   </ItemGroup>
