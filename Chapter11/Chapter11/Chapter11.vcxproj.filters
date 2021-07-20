@@ -15,29 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="vect.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="stonewt.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="vect.cpp">
+    <ClCompile Include="randwalk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="randwalk.cpp">
+    <ClCompile Include="mytime3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stone1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="stonewt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-<<<<<<< HEAD
-    <ClCompile Include="stone.cpp">
-=======
-    <ClCompile Include="stone1.cpp">
->>>>>>> 7de20b87df757d0b73f670ed42cb2c44554388a0
+    <ClCompile Include="usetime3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="vect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vect.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stonewt.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mytime3.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
