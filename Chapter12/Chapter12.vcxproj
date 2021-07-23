@@ -139,9 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="string1.h" />
     <ClInclude Include="strngbad.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="saying1.cpp" />
+    <ClCompile Include="string1.cpp" />
     <ClCompile Include="strngbad.cpp" />
     <ClCompile Include="vegnews.cpp" />
   </ItemGroup>

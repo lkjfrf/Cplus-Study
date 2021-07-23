@@ -18,12 +18,21 @@
     <ClInclude Include="strngbad.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="string1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="strngbad.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="vegnews.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="saying1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
