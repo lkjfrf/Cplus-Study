@@ -1,12 +1,13 @@
 #include "strngbad.h"
 #include <cstring>
-using std::cout;
+using namespace std;
 
+int StringBad::num_strings = 0;
 StringBad::StringBad(const char* s)
 {
 	len = std::strlen(s);
 	str = new char[len + 1];
-	std::strcpy(str, s);
+	strcpy_s(str, len+1,  s);
 	num_strings++;
 	cout << num_strings << ": \"" << str << "\" 按眉 积己\n";
 }
@@ -15,7 +16,7 @@ StringBad::StringBad()
 {
 	len = 4;
 	str = new char[4];
-	std::strcpy(str, "C++");
+	strcpy_s(str, 4, "C++");
 	num_strings++;
 	cout << num_strings << ": \"" << str << "\" 叼弃飘 按眉 积己\n";
 }
