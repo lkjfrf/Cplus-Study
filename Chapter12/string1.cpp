@@ -27,7 +27,7 @@ String::String()
 String::String(const String& st)
 {
 	num_strings++;
-	cout << "\n복사연산자 발생 - " << num_strings << endl;
+	cout << "\n복사연산자 발생 : " << num_strings << endl;
 	len = st.len;
 	str = new char[len + 1];
 	strcpy_s(str, len + 1, st.str);

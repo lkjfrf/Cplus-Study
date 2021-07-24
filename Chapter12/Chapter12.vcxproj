@@ -144,6 +144,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="saying1.cpp" />
+    <ClCompile Include="saying2.cpp" />
     <ClCompile Include="string1.cpp" />
     <ClCompile Include="strngbad.cpp" />
     <ClCompile Include="vegnews.cpp" />
